@@ -1,4 +1,4 @@
-const CACHE_NAME = "xprize-reader-v1";
+const CACHE_NAME = "xprize-reader-v2";
 
 const APP_SHELL = [
   "./",
@@ -7,6 +7,7 @@ const APP_SHELL = [
   "./app.js",
   "./manifest.webmanifest",
   "./reader-icon.svg",
+  "./reader-icon-512.png",
   "./XPRIZE_HACKATHON.md",
   "./research/00-approach.md",
   "./research/01-recently-funded-yc.md",
